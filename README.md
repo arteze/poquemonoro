@@ -2,7 +2,7 @@
 
 Decompilación de Pokemon Oro hecha con mgbdis.
 
-## Proyectos parecidos de otras personas
+## Proyecto parecido de otra persona
 
 - https://github.com/huderlem/kirbydreamland
 

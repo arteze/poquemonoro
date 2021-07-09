@@ -1,6 +1,6 @@
 # poquemonoro
 
-Decompilación de Pokemon Oro hecha con mgbdis.
+Desensamblamiento de Pokemon Oro hecha con mgbdis.
 
 ## Proyecto parecido de otra persona
 
